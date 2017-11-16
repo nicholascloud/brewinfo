@@ -1,0 +1,17 @@
+{
+  "name": "brewinfo",
+  "version": "1.0.0",
+  "description": "Queries Homebrew for package info and makes a neat little README.md",
+  "main": "index.js",
+  "engines": {
+    "node": "8.9.1"
+  },
+  "scripts": {
+  },
+  "author": "Nicholas Cloud <me@nicholascloud.com>",
+  "license": "MIT",
+  "dependencies": {
+    "async": "2.6.0",
+    "mkdirp": "0.5.1"
+  }
+}
