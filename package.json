@@ -4,10 +4,9 @@
   "description": "Queries Homebrew for package info and makes a neat little README.md",
   "main": "index.js",
   "engines": {
-    "node": "8.9.1"
+    "node": "^9.6"
   },
-  "scripts": {
-  },
+  "scripts": {},
   "author": "Nicholas Cloud <me@nicholascloud.com>",
   "license": "MIT",
   "dependencies": {
